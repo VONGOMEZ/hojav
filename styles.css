@@ -6,9 +6,10 @@
 		font-family: 'Montserrat Alternates', sans-serif;
 	}
 	body{
-		background: url(https://www.xtrafondos.com/descargar.php?id=3057&resolucion=3840x2160);
+		
 		background-size: 100vw 100vh;
 		background-repeat: no-repeat;
+		background-color: ghostwhite;
 	}
 	.capa{
 		position: fixed;
